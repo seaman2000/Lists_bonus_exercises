@@ -1,6 +1,7 @@
 sequence_of_numbers = input().split()
 
 my_list = []
+
 left_car = 0.00
 right_car = 0.00
 
