@@ -6,6 +6,7 @@ message = ""
 
 for number in sequence_of_numbers:
     digit_sum = 0
+
     for digit in number:
         digit_sum += int(digit)
 
