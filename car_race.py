@@ -1,10 +1,8 @@
 sequence_of_numbers = input().split()
 
 my_list = []
-
 left_car = 0.00
 right_car = 0.00
-
 idx_of_middle = len(sequence_of_numbers) // 2
 
 for idx in sequence_of_numbers:
